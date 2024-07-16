@@ -1,6 +1,4 @@
-# OreganoLeavesDiseaseDatasetTacna
-
-# A Comparative Study of Convolutional Neural Networks for Oregano Disease Classification in A Novel Dataset
+# A Comparative Study of Convolutional Neural Networks for Oregano Diseases Classification in A Novel Dataset
 
 Under review
 
