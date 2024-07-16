@@ -13,7 +13,7 @@ Under review
 - Erbert F. Osco-Mamani (eosco@unjbg.edu.pe)
 
 ## Files:
-- 224x224.zip is the Novel Dataset described in the paper. For full-size images, write an e-mail to authors.
+- train|valid.zip is the Novel Dataset described in the paper. For full-size images, write an e-mail to authors.
 - best.z0X is the .h5 highly-accuracy model with weights.
 
 ## How to cite this article?
